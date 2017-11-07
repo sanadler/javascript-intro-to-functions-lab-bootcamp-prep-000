@@ -2,4 +2,6 @@ function shout(string){
   return string.toUpperCase();
 }
 
-console.log(shout("wassup"));
+function whisper(string){
+  return string.toLowerCase();
+}
